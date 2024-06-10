@@ -1,0 +1,63 @@
+<mxfile host="Electron" modified="2024-04-30T03:09:49.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="LvS81-HafEztCNZA7_a2" version="23.1.5" type="device">
+  <diagram name="Page-1" id="1H3u6nlFQOBJs424qbh8">
+    <mxGraphModel dx="638" dy="325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="72FsXbQTOhSRWilEf9S4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UAR3sFO71Uv9Nb90PcLJ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAR3sFO71Uv9Nb90PcLJ-2" value="Customer" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="120" y="360" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UAR3sFO71Uv9Nb90PcLJ-3" value="Online Banking System" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="570" y="360" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UAR3sFO71Uv9Nb90PcLJ-6" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=2;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startSize=4;" parent="1" source="UAR3sFO71Uv9Nb90PcLJ-2" target="UAR3sFO71Uv9Nb90PcLJ-3" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="230" y="384.5" as="sourcePoint" />
+            <mxPoint x="390" y="384.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAR3sFO71Uv9Nb90PcLJ-7" value="1: Send Userid and password" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="317" y="270" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UAR3sFO71Uv9Nb90PcLJ-8" value="2: View account details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="328" y="290" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UAR3sFO71Uv9Nb90PcLJ-9" value="3: Withdraw money" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="335" y="313" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UAR3sFO71Uv9Nb90PcLJ-10" value="" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="345" y="370" as="sourcePoint" />
+            <mxPoint x="445" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAR3sFO71Uv9Nb90PcLJ-11" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="446" y="405" as="sourcePoint" />
+            <mxPoint x="346" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UAR3sFO71Uv9Nb90PcLJ-12" value="4: Cash dispensed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="345" y="414" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UAR3sFO71Uv9Nb90PcLJ-15" value="5: deposit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="346" y="332" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UAR3sFO71Uv9Nb90PcLJ-16" value="6: issue receipt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="354" y="437" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UAR3sFO71Uv9Nb90PcLJ-18" value="7: logout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="160" y="313" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UAR3sFO71Uv9Nb90PcLJ-20" value="&lt;b style=&quot;mso-bidi-font-weight:normal&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-theme-font:minor-latin;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Experiment No. 8 Collaboration diagram&lt;span style=&quot;letter-spacing:-.2pt&quot;&gt; &lt;/span&gt;for&lt;span style=&quot;letter-spacing:-.15pt&quot;&gt; &lt;/span&gt;Automated&lt;span style=&quot;letter-spacing:&lt;br/&gt;-.1pt&quot;&gt; &lt;/span&gt;Banking&lt;span style=&quot;letter-spacing:-.25pt&quot;&gt; &lt;/span&gt;System&lt;br&gt;&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="164" y="475" width="500" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
